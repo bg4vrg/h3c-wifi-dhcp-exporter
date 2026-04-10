@@ -1,0 +1,6 @@
+config.json
+*.csv
+raw/
+20*/
+*.log
+*.tmp
